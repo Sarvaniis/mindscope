@@ -46,6 +46,6 @@ This project is licensed under the **MIT License**.
 Feel free to submit issues or pull requests to improve this project.
 
 ## 📬 Contact
-For queries, reach out to **[Gowthami Kota](mailto:gowthamikota25@gmail.com)**
+For queries, reach out to **[Sayimpu Kirthi Naga Sarvani](mailto:sayimpukirthichowdary@gmail.com)**
 
-🔗 **GitHub**: [gowthamikota](https://github.com/gowthamikota)
+🔗 **GitHub**: https://github.com/Sarvaniis
